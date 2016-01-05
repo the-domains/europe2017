@@ -1,0 +1,28 @@
+name: Europe2017
+favicon: null
+layout_spectrum: 0.557357745943591
+typography_spectrum: 0.4398706315550953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8106018761172891
+  lightness: 0.08216754347085953
+  saturation: 0.4136385277379304
+  rhythmicContrast: 0.37990366318263113
+purpose: []
